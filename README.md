@@ -1,3 +1,9 @@
+# NOTE:
+## Download the dataset from Kaggle:
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+Place train.csv in the root of the project folder.
+
 # Toxic Comment Detection using NLP & Machine Learning
 In this project, I built a multi-label text classification model to detect toxic behavior in Wikipedia comments. 
 Using Natural Language Processing (NLP) techniques and Scikit-learn's machine learning pipeline, the model classifies comments into six toxicity categories in real time.
